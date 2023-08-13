@@ -1,0 +1,18 @@
+{
+  "friends": [
+    {
+      "name": "joe",
+      "debits": {
+        "uber": 1,
+        "coffee": -2
+      }
+    },
+    {
+      "name": "bob",
+      "debits": {
+        "meals": -3,
+        "groceries": 5
+      }
+    }
+  ]
+}
